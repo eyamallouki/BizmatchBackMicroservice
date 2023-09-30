@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: api-gateway
+
+  ##GATEWAY CONFIGURATIONS
+
+  cloud:
+    gateway:
+      routes:
+        ## serviceAuthentification
+        - id: serviceAuthentification
+          uri: lb://serviceAuthentification
+          predicates:
+            - Path=/serviceAuthentification/**
+          filters:
+            - StripPrefix=1
+
+        ## ServiceRegister
+        - id: ServiceRegister
+          uri: lb://ServiceRegister
+          predicates:
+            - Path=/ServiceRegister/**
+          filters:
+            - StripPrefix=1
+server:
+  port: 8080
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
