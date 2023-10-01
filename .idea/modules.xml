@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiGatway/ApiGatway.iml" filepath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bizmatch/Bizmatch.iml" filepath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" filepath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Register/Register.iml" filepath="$PROJECT_DIR$/Register/Register.iml" />
+    </modules>
+  </component>
+</project>
