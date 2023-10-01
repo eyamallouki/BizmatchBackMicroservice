@@ -11,4 +11,6 @@ import org.springframework.stereotype.Repository;
 public interface UserDao extends CrudRepository<User, String> {
     @Query("SELECT u FROM User u WHERE u.userName = :username")
     User findByUsername(String username);
+
+    User findByVerificationToken(String token);
 }
