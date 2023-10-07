@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ApiGatway/ApiGatway.iml" filepath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bizmatch/Bizmatch.iml" filepath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" filepath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Register/Register.iml" filepath="$PROJECT_DIR$/Register/Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserMangment/Register.iml" filepath="$PROJECT_DIR$/UserMangment/Register.iml" />
     </modules>
   </component>
 </project>

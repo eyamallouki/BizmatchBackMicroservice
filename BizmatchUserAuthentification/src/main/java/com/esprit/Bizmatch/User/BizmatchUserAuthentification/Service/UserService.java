@@ -4,9 +4,11 @@ import com.esprit.Bizmatch.User.BizmatchUserAuthentification.Repository.RoleDao;
 import com.esprit.Bizmatch.User.BizmatchUserAuthentification.Repository.UserDao;
 import com.esprit.Bizmatch.User.BizmatchUserAuthentification.entity.Role;
 import com.esprit.Bizmatch.User.BizmatchUserAuthentification.entity.User;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+
 
 import javax.transaction.Transactional;
 import java.io.BufferedReader;
@@ -73,7 +75,6 @@ public class UserService {
 
             userDao.save(user);
     }*/
-
 
     public String getEncodedPassword(String password) {
         return passwordEncoder.encode(password);

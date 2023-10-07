@@ -45,15 +45,19 @@ public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity httpSecurity) throws Exception {
         httpSecurity.cors();
         httpSecurity.csrf().disable()
-                .authorizeRequests().antMatchers("/authenticate", "/user/registerNewUser").permitAll()
+                .authorizeRequests().antMatchers("/authen", "/registerNewUser").permitAll()
+                //  .anyRequest().permitAll()
                 .antMatchers(HttpHeaders.ALLOW).permitAll()
+                .antMatchers("/checkEmail").permitAll()
+                .antMatchers("/resetPassword").permitAll()
+                .antMatchers("/activate/{verificationToken}").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .exceptionHandling().authenticationEntryPoint(jwtAuthenticationEntryPoint)
                 .and()
                 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
         ;
-        httpSecurity.cors();
+
         httpSecurity.addFilterBefore(jwtRequestFilter, UsernamePasswordAuthenticationFilter.class);
     }
     @Bean
