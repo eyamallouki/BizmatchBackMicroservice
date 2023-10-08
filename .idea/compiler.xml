@@ -11,12 +11,14 @@
         <module name="Bizmatch" />
         <module name="BizmatchUserAuthentification" />
         <module name="Register" />
+        <module name="CRM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ApiGatway" target="1.8" />
       <module name="Bizmatch" target="1.8" />
       <module name="BizmatchUserAuthentification" target="1.8" />
+      <module name="CRM" target="1.8" />
       <module name="Register" target="1.8" />
       <module name="UserMangment" target="1.8" />
     </bytecodeTargetLevel>
@@ -26,6 +28,7 @@
       <module name="ApiGatway" options="-parameters" />
       <module name="Bizmatch" options="-parameters" />
       <module name="BizmatchUserAuthentification" options="-parameters" />
+      <module name="CRM" options="-parameters" />
       <module name="Register" options="-parameters" />
       <module name="UserMangment" options="-parameters" />
     </option>

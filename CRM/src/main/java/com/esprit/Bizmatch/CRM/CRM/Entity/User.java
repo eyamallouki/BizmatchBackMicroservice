@@ -1,8 +1,7 @@
-package com.esprit.Bizmatch.User.BizmatchUserAuthentification.entity;
+package com.esprit.Bizmatch.CRM.CRM.Entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 
@@ -42,8 +41,5 @@ public class User implements Serializable {
     )
     private Set<Role> role;
 
-    @OneToMany(mappedBy="reclamant",cascade = CascadeType.ALL)
-    @JsonIgnore
-    private List<Reclamation> claimList;
 
 }
