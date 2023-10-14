@@ -9,7 +9,17 @@
     <file url="file://$PROJECT_DIR$/BizmatchUserAuthentification/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CRM/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CRM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Forum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Forum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReclamationMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReclamationMS/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/UserMangment/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/UserMangment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appel-d-offreMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appel-d-offreMS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paiementMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paiementMS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suivi-des-objectifsMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources" charset="UTF-8" />
   </component>
 </project>
