@@ -53,8 +53,8 @@ public class UserController {
         return "This URL is only accessible to the admin";
     }
 
-    @GetMapping({"/users"})
-    @PreAuthorize("hasRole('Admin')")
+    @GetMapping({"/getallUser"})
+   // @PreAuthorize("hasRole('Admin')")
     public List<User> getAll() {
         return userService.getAll();
     }
@@ -88,36 +88,34 @@ public class UserController {
         return userService.count();
     }
 
-    @GetMapping("/countoperateur")
-    @PreAuthorize("hasRole('Admin')")
-    public long countoperateur() {
-        return userService.countoperateur();
+    @GetMapping("/countentreprise")
+   // @PreAuthorize("hasRole('Admin')")
+    public long countEntreprise() {
+        return userService.countEntreprise();
     }
 
     @GetMapping("/countadmin")
-    @PreAuthorize("hasRole('Admin')")
+   // @PreAuthorize("hasRole('Admin')")
     public long countadmin() {
         return userService.countadmin();
     }
 
     @GetMapping("/countusers")
-    @PreAuthorize("hasRole('Admin')")
+   // @PreAuthorize("hasRole('Admin')")
     public long countusers() {
         return userService.countusers();
     }
 
     @GetMapping({"/sms/{userName}"})
-    @PreAuthorize("hasRole('Admin')")
+    //@PreAuthorize("hasRole('Admin')")
     public void SMS(@PathVariable String userName) {
         userService.sms(userName);
     }
 
-    @PutMapping({"/addRole/{roleName}/{userName}"})
-    @PreAuthorize("hasRole('Admin')")
+    @PutMapping({"/{roleName}/{userName}"})
+    // @PreAuthorize("hasRole('Admin')")
     public void addRoleToUser(@PathVariable String roleName, @PathVariable String userName) {
         userService.addRoleToUser(roleName, userName);
-
-
     }
     //activate compte
     @PutMapping("/activate/{verificationToken}")
@@ -174,4 +172,7 @@ public class UserController {
         }
         return accountResponse;
     }
+
 }
+
+
