@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/UserMangment/pom.xml" />
         <option value="$PROJECT_DIR$/CRM/pom.xml" />
 
+        <option value="$PROJECT_DIR$/appel-d-offreMS/pom.xml" />
+
+
 
         <option value="$PROJECT_DIR$/Bizmatch/pom.xml" />
         <option value="$PROJECT_DIR$/ApiGatway/pom.xml" />

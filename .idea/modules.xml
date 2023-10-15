@@ -13,8 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" filepath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserMangment/Register.iml" filepath="$PROJECT_DIR$/UserMangment/Register.iml" />
       <module fileurl="file://$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" filepath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" />
+
       <module fileurl="file://$PROJECT_DIR$/paiementMS/paiementMS.iml" filepath="$PROJECT_DIR$/paiementMS/paiementMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" filepath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" />
+
 
     </modules>
   </component>

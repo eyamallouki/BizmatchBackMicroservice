@@ -20,7 +20,11 @@
         <module name="Bizmatch" />
         <module name="CRM" />
 
+        <module name="appel-d-offreMS" />
+
+
         <module name="Forum" />
+
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -53,8 +57,11 @@
       <module name="Register" options="-parameters" />
       <module name="UserMangment" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
+
+
       <module name="paiementMS" options="-parameters" />
       <module name="suivi-des-objectifsMS" options="-parameters" />
+
 
     </option>
   </component>
