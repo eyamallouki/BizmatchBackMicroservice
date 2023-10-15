@@ -63,7 +63,15 @@ public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .antMatchers("/Claim/calculer-pourcentage-sentiment").permitAll()
                 .antMatchers("/Claim/analyser-contenu/{id}").permitAll()
                 .antMatchers("/Claim/pourcentage-sentiment").permitAll()
+                .antMatchers("/{roleName}/{userName}").permitAll()
+                .antMatchers("/getallUser").permitAll()
+                .antMatchers("/countusers").permitAll()
+                .antMatchers("/countentreprise").permitAll()
                 .anyRequest().authenticated()
+
+                /*
+
+                 */
                 .and()
                 .exceptionHandling().authenticationEntryPoint(jwtAuthenticationEntryPoint)
                 .and()
