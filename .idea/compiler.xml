@@ -9,24 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ReclamationMS" />
         <module name="suivi-des-objectifsMS" />
-
-        <module name="paiementMS" />
-        <module name="PrestationServiceMS" />
-        <module name="BizmatchUserAuthentification" />
-        <module name="Register" />
-        <module name="appel-d-offreMS" />
-        <module name="ApiGatway" />
-        <module name="Bizmatch" />
-
         <module name="PrestationServiceMS" />
         <module name="appel-d-offreMS" />
         <module name="ApiGatway" />
+        <module name="partenariatMS" />
         <module name="Bizmatch" />
-
-
-        <module name="CalanderMS" />
-        <module name="CRM" />
-
         <module name="Forum" />
         <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
@@ -46,6 +33,7 @@
       <module name="Expansion-DecouvertMarche" target="1.8" />
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
+      <module name="partenariatMS" target="1.8" />
       <module name="PrestationServiceMS" target="1.8" />
       <module name="ReclamationMS" target="1.8" />
       <module name="Register" target="1.8" />
@@ -59,11 +47,7 @@
       <module name="BizmatchUserAuthentification" options="-parameters" />
       <module name="CRM" options="-parameters" />
       <module name="CalanderMS" options="-parameters" />
-
-
       <module name="Expansion-DecouvertMarche" options="-parameters" />
-
-
       <module name="Forum" options="-parameters" />
       <module name="PrestationServiceMS" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
@@ -71,6 +55,7 @@
       <module name="UserMangment" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
       <module name="paiementMS" options="-parameters" />
+      <module name="partenariatMS" options="-parameters" />
       <module name="suivi-des-objectifsMS" options="-parameters" />
     </option>
   </component>

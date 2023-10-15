@@ -11,12 +11,8 @@
     <file url="file://$PROJECT_DIR$/CRM/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CalanderMS/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CalanderMS/src/main/resources" charset="UTF-8" />
-
-
     <file url="file://$PROJECT_DIR$/Expansion-DecouvertMarche/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Expansion-DecouvertMarche/src/main/resources" charset="UTF-8" />
-
-
     <file url="file://$PROJECT_DIR$/Forum/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Forum/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PrestationServiceMS/src/main/java" charset="UTF-8" />
@@ -29,6 +25,8 @@
     <file url="file://$PROJECT_DIR$/appel-d-offreMS/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paiementMS/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paiementMS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/partenariatMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/partenariatMS/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/suivi-des-objectifsMS/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources" charset="UTF-8" />
   </component>

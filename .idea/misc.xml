@@ -15,14 +15,9 @@
         <option value="$PROJECT_DIR$/paiementMS/pom.xml" />
         <option value="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" />
         <option value="$PROJECT_DIR$/CalanderMS/pom.xml" />
-
-        <option value="$PROJECT_DIR$/PrestationServiceMS/pom.xml" />
-
-
         <option value="$PROJECT_DIR$/PrestationServiceMS/pom.xml" />
         <option value="$PROJECT_DIR$/Expansion-DecouvertMarche/pom.xml" />
-
-
+        <option value="$PROJECT_DIR$/partenariatMS/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
