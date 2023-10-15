@@ -50,7 +50,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BizmatchApplication">
+  <component name="RunManager" selected="Spring Boot.BizmatchUserAuthentificationApplication">
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />

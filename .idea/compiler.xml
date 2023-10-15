@@ -8,7 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ReclamationMS" />
-
+        <module name="suivi-des-objectifsMS" />
         <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
         <module name="Register" />
@@ -17,14 +17,6 @@
         <module name="Bizmatch" />
         <module name="CRM" />
         <module name="Forum" />
-
-        <module name="suivi-des-objectifsMS" />
-        <module name="paiementMS" />
-        <module name="BizmatchUserAuthentification" />
-        <module name="Register" />
-        <module name="ApiGatway" />
-        <module name="Bizmatch" />
-
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,9 +24,7 @@
       <module name="appel-d-offreMS" target="1.8" />
       <module name="Bizmatch" target="1.8" />
       <module name="BizmatchUserAuthentification" target="1.8" />
-
       <module name="CRM" target="1.8" />
-
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
       <module name="ReclamationMS" target="1.8" />
@@ -47,7 +37,6 @@
       <module name="ApiGatway" options="-parameters" />
       <module name="Bizmatch" options="-parameters" />
       <module name="BizmatchUserAuthentification" options="-parameters" />
-
       <module name="CRM" options="-parameters" />
       <module name="Forum" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
@@ -55,14 +44,7 @@
       <module name="UserMangment" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
       <module name="paiementMS" options="-parameters" />
-
-      <module name="Forum" options="-parameters" />
-      <module name="ReclamationMS" options="-parameters" />
-      <module name="Register" options="-parameters" />
-      <module name="appel-d-offreMS" options="-parameters" />
-      <module name="paiementMS" options="-parameters" />
-      <module name="suivi-des-objectifsMS" options="-parameters" />
-
+      <module name="suivi-des-objectifsMS" options="" />
     </option>
   </component>
 </project>
