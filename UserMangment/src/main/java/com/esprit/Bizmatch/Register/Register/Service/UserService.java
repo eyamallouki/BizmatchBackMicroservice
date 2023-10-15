@@ -52,15 +52,15 @@ public class UserService {
         adminRoles.add(adminRole);
         adminUser.setRole(adminRoles);
         userDao.save(adminUser);
-        Role FournisseurRole = new Role();
-        FournisseurRole.setRoleName("Fournisseur");
-        FournisseurRole.setRoleDescription("Fournisseur role");
-        roleDao.save(FournisseurRole);
+        Role EntrepriseRole = new Role();
+        EntrepriseRole.setRoleName("Entreprise");
+        EntrepriseRole.setRoleDescription("Entreprise role");
+        roleDao.save(EntrepriseRole);
 
 
         Role OperateurRole = new Role();
-        OperateurRole.setRoleName("Operateur");
-        OperateurRole.setRoleDescription("Operateur role");
+        OperateurRole.setRoleName("Utulisateur");
+        OperateurRole.setRoleDescription("Utulisateur role");
         roleDao.save(OperateurRole);
 
 
@@ -105,13 +105,15 @@ public class UserService {
     public void update(User user){
         userDao.save(user);
     }
-    public void addRoleToUser(String roleName, String user)
+    public void addRoleToUser(String roleName, String userName)
     {
         Role r = roleDao.findById(roleName).orElse(null);
-        User u= userDao.findById(user).orElse(null);
-        Set<Role> userRoles = u.getRole();
-        userRoles.add(r);
-        u.setRole(userRoles);
+        User u= userDao.findById(userName).orElse(null);
+
+        Set<Role> newRole=new HashSet<Role>();
+        newRole.add(r);
+
+        u.setRole(newRole);
         userDao.save(u);
     }
 
@@ -119,8 +121,8 @@ public class UserService {
         long count=userDao.count();
         return count;
     }
-    public long countoperateur(){
-        long countoperateur=0;
+    public long countEntreprise(){
+        long countEntreprise=0;
         List<User> users= (List<User>) userDao.findAll();
         for(User user:users) {
 
@@ -128,10 +130,10 @@ public class UserService {
             Role role= roles.iterator().next();
             String rolename = role.getRoleName();
             if(rolename.equals("User")){
-                countoperateur+=1;
+                countEntreprise+=1;
             }
         }
-        return countoperateur;
+        return countEntreprise;
     }
     public long countadmin(){
         long countadmin=0;
