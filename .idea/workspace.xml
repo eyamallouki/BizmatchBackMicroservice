@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Appeld'Offre" />
+        <entry key="$PROJECT_DIR$" value="PrestationServiceMS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,16 +33,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/PrestationServiceMS/pom.xml",
-    "spring.configuration.checksum": "49e7d7740df764a03948d04441409bc4"
-  }
-}]]></component>
+  <component name="PropertiesComponent"></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -54,6 +45,13 @@
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Expansion-DecouvertMarche" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.Expansion.DecouvertMarche.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,6 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697373923265</updated>
       <workItem from="1697373926577" duration="804000" />
+      <workItem from="1697386802789" duration="388000" />
     </task>
     <servers />
   </component>
