@@ -3,12 +3,18 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+
         <option value="$PROJECT_DIR$/ApiGatway/pom.xml" />
         <option value="$PROJECT_DIR$/Bizmatch/pom.xml" />
         <option value="$PROJECT_DIR$/BizmatchUserAuthentification/pom.xml" />
         <option value="$PROJECT_DIR$/Register/pom.xml" />
         <option value="$PROJECT_DIR$/UserMangment/pom.xml" />
         <option value="$PROJECT_DIR$/CRM/pom.xml" />
+
+        <option value="$PROJECT_DIR$/Bizmatch/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGatway/pom.xml" />
+        <option value="$PROJECT_DIR$/BizmatchUserAuthentification/pom.xml" />
+
       </list>
     </option>
   </component>
@@ -16,4 +22,5 @@
   <component name="ProjectType">
     <option name="id" value="jpab" />
   </component>
+
 </project>
