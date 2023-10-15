@@ -13,6 +13,10 @@
         <module name="appel-d-offreMS" />
         <module name="ApiGatway" />
         <module name="Bizmatch" />
+
+        <module name="CalanderMS" />
+        <module name="CRM" />
+
         <module name="Forum" />
         <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
@@ -45,7 +49,9 @@
       <module name="BizmatchUserAuthentification" options="-parameters" />
       <module name="CRM" options="-parameters" />
       <module name="CalanderMS" options="-parameters" />
+
       <module name="Expansion-DecouvertMarche" options="-parameters" />
+
       <module name="Forum" options="-parameters" />
       <module name="PrestationServiceMS" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
