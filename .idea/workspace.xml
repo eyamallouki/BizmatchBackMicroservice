@@ -81,6 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalanderMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CalanderMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.CalanderMS.CalanderMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForumApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Forum" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.Forum.ForumApplication" />
@@ -91,6 +98,13 @@
     <configuration name="PaiementMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="paiementMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.paiementMS.PaiementMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrestationServiceMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PrestationServiceMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.PrestationServiceMS.PrestationServiceMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
