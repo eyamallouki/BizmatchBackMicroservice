@@ -1,0 +1,106 @@
+Index: paiementMS/paiementMS.iml
+===================================================================
+diff --git a/paiementMS/paiementMS.iml b/paiementMS/paiementMS.iml
+--- a/paiementMS/paiementMS.iml	
++++ b/paiementMS/paiementMS.iml	
+@@ -14,7 +14,9 @@
+       <configuration>
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+-        <datasource-mapping />
++        <datasource-mapping>
++          <factory-entry name="paiementMS" value="6cd172ad-6190-4cca-a027-d6121edb6abd" />
++        </datasource-mapping>
+         <naming-strategy-map />
+       </configuration>
+     </facet>
+Index: appel-d-offreMS/appel-d-offreMS.iml
+===================================================================
+diff --git a/appel-d-offreMS/appel-d-offreMS.iml b/appel-d-offreMS/appel-d-offreMS.iml
+--- a/appel-d-offreMS/appel-d-offreMS.iml	
++++ b/appel-d-offreMS/appel-d-offreMS.iml	
+@@ -14,7 +14,9 @@
+       <configuration>
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+-        <datasource-mapping />
++        <datasource-mapping>
++          <factory-entry name="appel-d-offreMS" value="7e33722e-985e-4c07-a34b-8409554c3cca" />
++        </datasource-mapping>
+         <naming-strategy-map />
+       </configuration>
+     </facet>
+Index: UserMangment/Register.iml
+===================================================================
+diff --git a/UserMangment/Register.iml b/UserMangment/Register.iml
+--- a/UserMangment/Register.iml	
++++ b/UserMangment/Register.iml	
+@@ -15,6 +15,7 @@
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+         <datasource-mapping>
++          <factory-entry name="Register" value="29d2eae8-703b-459d-b3ec-b1364da91aa6" />
+           <factory-entry name="entityManagerFactory" />
+         </datasource-mapping>
+         <naming-strategy-map />
+Index: suivi-des-objectifsMS/suivi-des-objectifsMS.iml
+===================================================================
+diff --git a/suivi-des-objectifsMS/suivi-des-objectifsMS.iml b/suivi-des-objectifsMS/suivi-des-objectifsMS.iml
+--- a/suivi-des-objectifsMS/suivi-des-objectifsMS.iml	
++++ b/suivi-des-objectifsMS/suivi-des-objectifsMS.iml	
+@@ -14,7 +14,9 @@
+       <configuration>
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+-        <datasource-mapping />
++        <datasource-mapping>
++          <factory-entry name="suivi-des-objectifsMS" value="b7a36898-0119-437c-afca-5829fbb4e135" />
++        </datasource-mapping>
+         <naming-strategy-map />
+       </configuration>
+     </facet>
+Index: BizmatchUserAuthentification/BizmatchUserAuthentification.iml
+===================================================================
+diff --git a/BizmatchUserAuthentification/BizmatchUserAuthentification.iml b/BizmatchUserAuthentification/BizmatchUserAuthentification.iml
+--- a/BizmatchUserAuthentification/BizmatchUserAuthentification.iml	
++++ b/BizmatchUserAuthentification/BizmatchUserAuthentification.iml	
+@@ -15,6 +15,7 @@
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+         <datasource-mapping>
++          <factory-entry name="BizmatchUserAuthentification" value="a2310611-cfbe-45b6-ac50-51b97faa8496" />
+           <factory-entry name="entityManagerFactory" />
+         </datasource-mapping>
+         <naming-strategy-map />
+Index: ReclamationMS/ReclamationMS.iml
+===================================================================
+diff --git a/ReclamationMS/ReclamationMS.iml b/ReclamationMS/ReclamationMS.iml
+--- a/ReclamationMS/ReclamationMS.iml	
++++ b/ReclamationMS/ReclamationMS.iml	
+@@ -14,7 +14,9 @@
+       <configuration>
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+-        <datasource-mapping />
++        <datasource-mapping>
++          <factory-entry name="ReclamationMS" value="a72c95b8-69cb-4d6b-8a7d-934e5266b4ec" />
++        </datasource-mapping>
+         <naming-strategy-map />
+       </configuration>
+     </facet>
+Index: Forum/Forum.iml
+===================================================================
+diff --git a/Forum/Forum.iml b/Forum/Forum.iml
+--- a/Forum/Forum.iml	
++++ b/Forum/Forum.iml	
+@@ -14,7 +14,9 @@
+       <configuration>
+         <setting name="validation-enabled" value="true" />
+         <setting name="provider-name" value="Hibernate" />
+-        <datasource-mapping />
++        <datasource-mapping>
++          <factory-entry name="Forum" value="a9785a78-ea39-48e7-a7be-cce61135c273" />
++        </datasource-mapping>
+         <naming-strategy-map />
+       </configuration>
+     </facet>

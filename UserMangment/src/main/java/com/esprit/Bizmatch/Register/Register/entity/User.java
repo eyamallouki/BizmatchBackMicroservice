@@ -31,6 +31,8 @@ public class User implements Serializable {
     @Pattern(regexp = "[0-9]{8}", message = "Le numéro doit être composé de 8 chiffres")
     private String userNumber;
     private String userCode;
+    private  String CIN;
+    private  String MatriculeEntreprise;
     @ManyToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     @JoinTable(name = "USER_ROLE",
             joinColumns = {
