@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +75,13 @@
     <configuration name="BizmatchUserAuthentificationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="BizmatchUserAuthentification" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.User.BizmatchUserAuthentification.BizmatchUserAuthentificationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalanderMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CalanderMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.CalanderMS.CalanderMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
