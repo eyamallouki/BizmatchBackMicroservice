@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="" />
+    <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalanderMS/CalanderMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forum/Forum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/Register.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/paiementMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/Expansion-DecouvertMarche/pom.xml",
+    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/UserMangment/pom.xml",
     "spring.configuration.checksum": "f4ddd1386008b505d9d07cbcaff983a6"
   }
 }]]></component>
@@ -103,6 +116,13 @@
     <configuration name="PaiementMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="paiementMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.paiementMS.PaiementMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartenariatMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="partenariatMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.partenariatMS.PartenariatMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

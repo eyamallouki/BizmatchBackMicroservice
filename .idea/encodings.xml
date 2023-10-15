@@ -5,19 +5,10 @@
     <file url="file://$PROJECT_DIR$/ApiGatway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Bizmatch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Bizmatch/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/BizmatchUserAuthentification/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/BizmatchUserAuthentification/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/CRM/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/CRM/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CalanderMS/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CalanderMS/src/main/resources" charset="UTF-8" />
-<<<<<<< HEAD
-=======
-
     <file url="file://$PROJECT_DIR$/Expansion-DecouvertMarche/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Expansion-DecouvertMarche/src/main/resources" charset="UTF-8" />
-
->>>>>>> ab0d62416977e31d66baabf6eee4ff207ca86acb
     <file url="file://$PROJECT_DIR$/Forum/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Forum/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PrestationServiceMS/src/main/java" charset="UTF-8" />
@@ -30,6 +21,8 @@
     <file url="file://$PROJECT_DIR$/appel-d-offreMS/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paiementMS/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paiementMS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/partenariatMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/partenariatMS/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/suivi-des-objectifsMS/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources" charset="UTF-8" />
   </component>
