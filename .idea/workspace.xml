@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalanderMS/CalanderMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forum/Forum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/Register.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/paiementMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="PrestationServiceMS" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WngmgM3rPAdx9LzaCdOTChV6yc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/UserMangment/pom.xml&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f4ddd1386008b505d9d07cbcaff983a6&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BizmatchApplication">
+    <configuration name="All in Bizmatch (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bizmatch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bizmatch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ApiGatway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Expansion-DecouvertMarche" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.Expansion.DecouvertMarche.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="appel-d-offreMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.appel.d.offreMS.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BizmatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Bizmatch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.Bizmatch.BizmatchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BizmatchUserAuthentificationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BizmatchUserAuthentification" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.User.BizmatchUserAuthentification.BizmatchUserAuthentificationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalanderMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CalanderMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.CalanderMS.CalanderMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Forum" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.Forum.ForumApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaiementMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="paiementMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.paiementMS.PaiementMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartenariatMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="partenariatMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.partenariatMS.PartenariatMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrestationServiceMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PrestationServiceMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.PrestationServiceMS.PrestationServiceMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReclamationMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ReclamationMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.ReclamationMS.ReclamationMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiviDesObjectifsMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="suivi-des-objectifsMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.suivi.des.objectifsMS.SuiviDesObjectifsMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserManagmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.Register.Register.UserManagmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Bizmatch (1)" />
+        <item itemvalue="JUnit.All in Bizmatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="" />
+      <created>1697373923265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697373923265</updated>
+      <workItem from="1697373926577" duration="804000" />
+      <workItem from="1697386802789" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
