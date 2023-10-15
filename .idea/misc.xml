@@ -9,7 +9,14 @@
         <option value="$PROJECT_DIR$/Register/pom.xml" />
         <option value="$PROJECT_DIR$/UserMangment/pom.xml" />
         <option value="$PROJECT_DIR$/CRM/pom.xml" />
+        <option value="$PROJECT_DIR$/paiementMS/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Forum/pom.xml" />
+        <option value="$PROJECT_DIR$/appel-d-offreMS/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />

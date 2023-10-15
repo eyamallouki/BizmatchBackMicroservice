@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ApiGatway" />
         <module name="Bizmatch" />
+        <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
         <module name="Register" />
         <module name="CRM" />
@@ -19,6 +20,7 @@
       <module name="Bizmatch" target="1.8" />
       <module name="BizmatchUserAuthentification" target="1.8" />
       <module name="CRM" target="1.8" />
+      <module name="paiementMS" target="1.8" />
       <module name="Register" target="1.8" />
       <module name="UserMangment" target="1.8" />
     </bytecodeTargetLevel>
@@ -31,6 +33,7 @@
       <module name="CRM" options="-parameters" />
       <module name="Register" options="-parameters" />
       <module name="UserMangment" options="-parameters" />
+      <module name="paiementMS" options="-parameters" />
     </option>
   </component>
 </project>
