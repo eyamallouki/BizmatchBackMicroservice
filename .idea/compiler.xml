@@ -10,8 +10,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+
+        <module name="ApiGatway" />
+        <module name="Bizmatch" />
+
         <module name="ReclamationMS" />
         <module name="suivi-des-objectifsMS" />
+
         <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
         <module name="Register" />
@@ -32,9 +37,13 @@
 
       <module name="CRM" target="1.8" />
 
+      <module name="paiementMS" target="1.8" />
+
+
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
       <module name="ReclamationMS" target="1.8" />
+
       <module name="Register" target="1.8" />
       <module name="suivi-des-objectifsMS" target="1.8" />
 
@@ -54,6 +63,9 @@
       <module name="Register" options="-parameters" />
       <module name="UserMangment" options="-parameters" />
 
+      <module name="paiementMS" options="-parameters" />
+
+
       <module name="Forum" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
       <module name="Register" options="-parameters" />
@@ -61,6 +73,7 @@
       <module name="appel-d-offreMS" options="-parameters" />
       <module name="paiementMS" options="-parameters" />
       <module name="suivi-des-objectifsMS" options="-parameters" />
+
     </option>
 
   </component>
