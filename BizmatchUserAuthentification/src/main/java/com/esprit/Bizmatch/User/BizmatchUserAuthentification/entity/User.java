@@ -1,5 +1,6 @@
 package com.esprit.Bizmatch.User.BizmatchUserAuthentification.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
@@ -9,6 +10,7 @@ import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Pattern;
 import java.io.Serializable;
+import java.util.List;
 import java.util.Set;
 
 @Entity
@@ -39,5 +41,9 @@ public class User implements Serializable {
             }
     )
     private Set<Role> role;
+
+    @OneToMany(mappedBy="reclamant",cascade = CascadeType.ALL)
+    @JsonIgnore
+    private List<Reclamation> claimList;
 
 }
