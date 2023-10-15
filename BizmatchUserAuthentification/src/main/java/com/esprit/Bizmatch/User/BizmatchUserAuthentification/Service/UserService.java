@@ -4,10 +4,13 @@ import com.esprit.Bizmatch.User.BizmatchUserAuthentification.Repository.RoleDao;
 import com.esprit.Bizmatch.User.BizmatchUserAuthentification.Repository.UserDao;
 import com.esprit.Bizmatch.User.BizmatchUserAuthentification.entity.Role;
 import com.esprit.Bizmatch.User.BizmatchUserAuthentification.entity.User;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
+
+import javax.transaction.Transactional;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -73,9 +76,21 @@ public class UserService {
             userDao.save(user);
     }*/
 
-
     public String getEncodedPassword(String password) {
         return passwordEncoder.encode(password);
     }
 
+    public boolean ifEmailExist(String UserEmail){
+        return userDao.existsByUserEmail(UserEmail);
+    }
+
+    @Transactional
+    public String getPasswordByUserEmail(String userEmail){
+        return userDao.getPasswordByUserEmail(userEmail);
+    }
+
+    public User findByUserEmail(String UserEmail)
+    {
+        return this.userDao.findByUserEmail(UserEmail);
+    }
 }
