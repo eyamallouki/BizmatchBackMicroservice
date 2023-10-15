@@ -9,14 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ReclamationMS" />
         <module name="suivi-des-objectifsMS" />
-        <module name="paiementMS" />
-        <module name="BizmatchUserAuthentification" />
-        <module name="Register" />
+        <module name="PrestationServiceMS" />
         <module name="appel-d-offreMS" />
         <module name="ApiGatway" />
         <module name="Bizmatch" />
-        <module name="CRM" />
         <module name="Forum" />
+        <module name="paiementMS" />
+        <module name="BizmatchUserAuthentification" />
+        <module name="Register" />
+        <module name="Expansion-DecouvertMarche" />
+        <module name="CalanderMS" />
+        <module name="CRM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,9 +27,12 @@
       <module name="appel-d-offreMS" target="1.8" />
       <module name="Bizmatch" target="1.8" />
       <module name="BizmatchUserAuthentification" target="1.8" />
+      <module name="CalanderMS" target="1.8" />
       <module name="CRM" target="1.8" />
+      <module name="Expansion-DecouvertMarche" target="1.8" />
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
+      <module name="PrestationServiceMS" target="1.8" />
       <module name="ReclamationMS" target="1.8" />
       <module name="Register" target="1.8" />
       <module name="suivi-des-objectifsMS" target="1.8" />
@@ -38,7 +44,10 @@
       <module name="Bizmatch" options="-parameters" />
       <module name="BizmatchUserAuthentification" options="-parameters" />
       <module name="CRM" options="-parameters" />
+      <module name="CalanderMS" options="-parameters" />
+      <module name="Expansion-DecouvertMarche" options="-parameters" />
       <module name="Forum" options="-parameters" />
+      <module name="PrestationServiceMS" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
       <module name="Register" options="-parameters" />
       <module name="UserMangment" options="-parameters" />
