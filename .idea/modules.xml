@@ -7,9 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" filepath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" />
       <module fileurl="file://$PROJECT_DIR$/CRM/CRM.iml" filepath="$PROJECT_DIR$/CRM/CRM.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalanderMS/CalanderMS.iml" filepath="$PROJECT_DIR$/CalanderMS/CalanderMS.iml" />
+<<<<<<< HEAD
+=======
 
       <module fileurl="file://$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" filepath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" />
 
+>>>>>>> ab0d62416977e31d66baabf6eee4ff207ca86acb
       <module fileurl="file://$PROJECT_DIR$/Forum/Forum.iml" filepath="$PROJECT_DIR$/Forum/Forum.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" filepath="$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" filepath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" />

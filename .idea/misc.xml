@@ -15,15 +15,20 @@
         <option value="$PROJECT_DIR$/paiementMS/pom.xml" />
         <option value="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" />
         <option value="$PROJECT_DIR$/CalanderMS/pom.xml" />
+<<<<<<< HEAD
+=======
 
         <option value="$PROJECT_DIR$/PrestationServiceMS/pom.xml" />
         <option value="$PROJECT_DIR$/Expansion-DecouvertMarche/pom.xml" />
 
+>>>>>>> ab0d62416977e31d66baabf6eee4ff207ca86acb
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Expansion-DecouvertMarche/pom.xml" />
         <option value="$PROJECT_DIR$/Forum/pom.xml" />
+        <option value="$PROJECT_DIR$/PrestationServiceMS/pom.xml" />
         <option value="$PROJECT_DIR$/appel-d-offreMS/pom.xml" />
       </set>
     </option>
