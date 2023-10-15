@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" filepath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" />
       <module fileurl="file://$PROJECT_DIR$/CRM/CRM.iml" filepath="$PROJECT_DIR$/CRM/CRM.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserMangment/Register.iml" filepath="$PROJECT_DIR$/UserMangment/Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" filepath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" />
     </modules>
   </component>
 </project>
