@@ -44,7 +44,7 @@
       <module name="UserMangment" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
       <module name="paiementMS" options="-parameters" />
-      <module name="suivi-des-objectifsMS" options="" />
+      <module name="suivi-des-objectifsMS" options="-parameters" />
     </option>
   </component>
 </project>
