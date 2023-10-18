@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;339b61bf67506e6f25023b3ddf6fd166&quot;
+  }
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -42,7 +53,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PrestationServiceMsApplication">
+  <component name="RunManager" selected="Spring Boot.PartenariatMsApplication">
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
@@ -138,6 +149,10 @@
       <updated>1697373923265</updated>
       <workItem from="1697373926577" duration="804000" />
       <workItem from="1697386802789" duration="388000" />
+      <workItem from="1697406834254" duration="1032000" />
+      <workItem from="1697452568776" duration="1696000" />
+      <workItem from="1697459963915" duration="2064000" />
+      <workItem from="1697644613532" duration="595000" />
     </task>
     <servers />
   </component>
