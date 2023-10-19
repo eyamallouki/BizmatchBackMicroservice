@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expansion-DecouvertMarche/src/main/java/com/Bizmatch/Expansion/DecouvertMarche/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Expansion-DecouvertMarche/src/main/java/com/Bizmatch/Expansion/DecouvertMarche/ApplicationExpansion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/UserMangment/pom.xml",
-    "spring.configuration.checksum": "339b61bf67506e6f25023b3ddf6fd166"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/UserMangment/pom.xml&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;339b61bf67506e6f25023b3ddf6fd166&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -67,7 +62,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PrestationServiceMsApplication">
+  <component name="RunManager" selected="Spring Boot.UserManagmentApplication">
     <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bizmatch" />
       <option name="PACKAGE_NAME" value="" />
@@ -191,6 +186,7 @@
       <workItem from="1697373926577" duration="804000" />
       <workItem from="1697386802789" duration="388000" />
       <workItem from="1697398032551" duration="2127000" />
+      <workItem from="1697724959688" duration="536000" />
     </task>
     <servers />
   </component>

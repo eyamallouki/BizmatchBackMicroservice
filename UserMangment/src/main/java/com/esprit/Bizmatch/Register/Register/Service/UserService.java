@@ -57,11 +57,12 @@ public class UserService {
         EntrepriseRole.setRoleDescription("Entreprise role");
         roleDao.save(EntrepriseRole);
 
+        Role FournisseurRole = new Role();
+        FournisseurRole .setRoleName("Fournisseur");
+        FournisseurRole .setRoleDescription("Fournisseur Role ");
+        roleDao.save(FournisseurRole );
 
-        Role OperateurRole = new Role();
-        OperateurRole.setRoleName("Utulisateur");
-        OperateurRole.setRoleDescription("Utulisateur role");
-        roleDao.save(OperateurRole);
+
 
 
 //        User user = new User();
@@ -129,11 +130,27 @@ public class UserService {
             Set<Role> roles=user.getRole();
             Role role= roles.iterator().next();
             String rolename = role.getRoleName();
-            if(rolename.equals("User")){
+            if(rolename.equals("Entreprise")){
                 countEntreprise+=1;
             }
         }
         return countEntreprise;
+    }
+
+    //Fournisseur :
+    public long countFournisseur(){
+        long countFournisseur=0;
+        List<User> users= (List<User>) userDao.findAll();
+        for(User user:users) {
+
+            Set<Role> roles=user.getRole();
+            Role role= roles.iterator().next();
+            String rolename = role.getRoleName();
+            if(rolename.equals("Fournisseur")){
+                countFournisseur+=1;
+            }
+        }
+        return countFournisseur;
     }
     public long countadmin(){
         long countadmin=0;
