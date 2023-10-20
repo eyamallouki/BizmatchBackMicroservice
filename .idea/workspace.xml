@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,19 @@
       </set>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Spring Boot.PartenariatMsApplication">
+=======
+  <component name="RunManager" selected="Spring Boot.BizmatchUserAuthentificationApplication">
+    <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bizmatch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> Stashed changes
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
@@ -149,10 +164,15 @@
       <updated>1697373923265</updated>
       <workItem from="1697373926577" duration="804000" />
       <workItem from="1697386802789" duration="388000" />
+<<<<<<< Updated upstream
       <workItem from="1697406834254" duration="1032000" />
       <workItem from="1697452568776" duration="1696000" />
       <workItem from="1697459963915" duration="2064000" />
       <workItem from="1697644613532" duration="595000" />
+=======
+      <workItem from="1697398032551" duration="2127000" />
+      <workItem from="1697724959688" duration="2699000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
