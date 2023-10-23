@@ -15,6 +15,15 @@
       <change beforePath="$PROJECT_DIR$/PrestationServiceMS/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PrestationServiceMS/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/entity/User.class" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/Service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/Service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/configuration/WebSecurityConfiguration.class" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +70,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
     &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+
     &quot;ToolWindowCodeGPT.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/PrestationServiceMS/src/main/java/com/Bizmatch/PrestationServiceMS/Entity&quot;,
@@ -87,6 +100,14 @@
       <recent name="com.Bizmatch.PrestationServiceMS.Entity" />
     </key>
   </component>
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/UserMangment/pom.xml&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;339b61bf67506e6f25023b3ddf6fd166&quot;
+  }
+}</component>
+
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -94,7 +115,6 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PrestationServiceMsApplication">
     <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bizmatch" />
       <option name="PACKAGE_NAME" value="" />
@@ -120,6 +140,19 @@
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="appel-d-offreMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.appel.d.offreMS.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationExpansion" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Expansion-DecouvertMarche" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.Expansion.DecouvertMarche.ApplicationExpansion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bizmatch.Expansion.DecouvertMarche.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,6 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApplicationExpansion" />
+        <item itemvalue="JUnit.All in Bizmatch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -209,6 +248,9 @@
       <workItem from="1697978152296" duration="1911000" />
       <workItem from="1697990147668" duration="580000" />
       <workItem from="1697992814188" duration="9354000" />
+
+      <workItem from="1697398032551" duration="2127000" />
+      <workItem from="1697724959688" duration="536000" />
     </task>
     <servers />
   </component>

@@ -20,7 +20,6 @@
         <module name="Register" />
         <module name="Expansion-DecouvertMarche" />
         <module name="CalanderMS" />
-        <module name="CRM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,7 +28,6 @@
       <module name="Bizmatch" target="1.8" />
       <module name="BizmatchUserAuthentification" target="1.8" />
       <module name="CalanderMS" target="1.8" />
-      <module name="CRM" target="1.8" />
       <module name="Expansion-DecouvertMarche" target="1.8" />
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
@@ -45,14 +43,12 @@
       <module name="ApiGatway" options="-parameters" />
       <module name="Bizmatch" options="-parameters" />
       <module name="BizmatchUserAuthentification" options="-parameters" />
-      <module name="CRM" options="-parameters" />
       <module name="CalanderMS" options="-parameters" />
       <module name="Expansion-DecouvertMarche" options="-parameters" />
       <module name="Forum" options="-parameters" />
       <module name="PrestationServiceMS" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
       <module name="Register" options="-parameters" />
-      <module name="UserMangment" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
       <module name="paiementMS" options="-parameters" />
       <module name="partenariatMS" options="-parameters" />
