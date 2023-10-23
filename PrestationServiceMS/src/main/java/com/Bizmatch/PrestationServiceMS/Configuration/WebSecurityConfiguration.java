@@ -1,4 +1,4 @@
-package com.esprit.Bizmatch.User.BizmatchUserAuthentification.configuration;
+package com.Bizmatch.PrestationServiceMS.Configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -48,10 +48,14 @@ public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .authorizeRequests().antMatchers("/authen", "/registerNewUser").permitAll()
                 //  .anyRequest().permitAll()
                 .antMatchers(HttpHeaders.ALLOW).permitAll()
-                .antMatchers("/checkEmail").permitAll()
-                .antMatchers("/resetPassword").permitAll()
-                .antMatchers("/activate/{verificationToken}").permitAll()
                 .antMatchers("/Fournisseur/addFour").permitAll()
+                .antMatchers("/Fournisseur/getAllFour").permitAll()
+                .antMatchers("/Fournisseur/updateFour").permitAll()
+                .antMatchers("/Fournisseur/getByUsername/{username}").permitAll()
+                .antMatchers("/Fournisseur/assignUserToFournisseur").permitAll()
+                .antMatchers("/Fournisseur/searchFournisseursByDomaine").permitAll()
+                .antMatchers("/Fournisseur/sortFournisseursByAssignedUsers").permitAll()
+                .antMatchers("/Fournisseur/{fournisseurId}/f").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .exceptionHandling().authenticationEntryPoint(jwtAuthenticationEntryPoint)

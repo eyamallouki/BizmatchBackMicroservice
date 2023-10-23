@@ -1,18 +1,13 @@
-package com.esprit.Bizmatch.Register.Register.entity;
+package com.Bizmatch.PrestationServiceMS.Entity;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
-import com.esprit.Bizmatch.Register.Register.entity.*;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Pattern;
 import java.io.Serializable;
-import java.util.List;
 import java.util.Set;
 
 @Entity
