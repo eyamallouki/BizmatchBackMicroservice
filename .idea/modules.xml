@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApiGatway/ApiGatway.iml" filepath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bizmatch/Bizmatch.iml" filepath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" filepath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalanderMS/CalanderMS.iml" filepath="$PROJECT_DIR$/CalanderMS/CalanderMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" filepath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" />
       <module fileurl="file://$PROJECT_DIR$/Forum/Forum.iml" filepath="$PROJECT_DIR$/Forum/Forum.iml" />
