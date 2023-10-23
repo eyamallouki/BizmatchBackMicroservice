@@ -5,14 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/BizmatchUserAuthentification/src/main/java/com/esprit/Bizmatch/User/BizmatchUserAuthentification/configuration/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/BizmatchUserAuthentification/src/main/java/com/esprit/Bizmatch/User/BizmatchUserAuthentification/configuration/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BizmatchUserAuthentification/target/classes/com/esprit/Bizmatch/User/BizmatchUserAuthentification/configuration/WebSecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/BizmatchUserAuthentification/target/classes/com/esprit/Bizmatch/User/BizmatchUserAuthentification/configuration/WebSecurityConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrestationServiceMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PrestationServiceMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrestationServiceMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PrestationServiceMS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrestationServiceMS/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PrestationServiceMS/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/src/main/java/com/esprit/Bizmatch/Register/Register/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/target/classes/com/esprit/Bizmatch/Register/Register/entity/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -21,6 +37,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,6 +52,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2WngmgM3rPAdx9LzaCdOTChV6yc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,10 +65,28 @@
     &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;ToolWindowCodeGPT.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/PrestationServiceMS/src/main/java/com/Bizmatch/PrestationServiceMS/Entity&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;339b61bf67506e6f25023b3ddf6fd166&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\PrestationServiceMS\src\main\java\com\Bizmatch\PrestationServiceMS\Entity" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\PrestationServiceMS\src\main\java\com\Bizmatch\PrestationServiceMS\Configuration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Bizmatch.PrestationServiceMS.Services" />
+      <recent name="com.Bizmatch.PrestationServiceMS.util" />
+      <recent name="com.Bizmatch.PrestationServiceMS.Configuration" />
+      <recent name="com.Bizmatch.PrestationServiceMS.Entity" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -54,10 +94,7 @@
       </set>
     </option>
   </component>
-
-    <component name="RunManager" selected="Spring Boot.PartenariatMsApplication"></component>
-
-  <component name="RunManager" selected="Spring Boot.BizmatchUserAuthentificationApplication">
+  <component name="RunManager" selected="Spring Boot.PrestationServiceMsApplication">
     <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bizmatch" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,7 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
@@ -162,14 +198,17 @@
       <updated>1697373923265</updated>
       <workItem from="1697373926577" duration="804000" />
       <workItem from="1697386802789" duration="388000" />
-
       <workItem from="1697406834254" duration="1032000" />
       <workItem from="1697452568776" duration="1696000" />
       <workItem from="1697459963915" duration="2064000" />
       <workItem from="1697644613532" duration="595000" />
-
       <workItem from="1697398032551" duration="2127000" />
       <workItem from="1697724959688" duration="2699000" />
+      <workItem from="1697915900996" duration="676000" />
+      <workItem from="1697916639272" duration="12770000" />
+      <workItem from="1697978152296" duration="1911000" />
+      <workItem from="1697990147668" duration="580000" />
+      <workItem from="1697992814188" duration="9354000" />
     </task>
     <servers />
   </component>
