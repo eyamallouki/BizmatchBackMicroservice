@@ -47,7 +47,7 @@
       <module name="ReclamationMS" options="-parameters" />
       <module name="Register" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
-      <module name="paiementMS" options="-parameters" />
+      <module name="paiementMS" options="" />
       <module name="partenariatMS" options="-parameters" />
       <module name="suivi-des-objectifsMS" options="-parameters" />
     </option>
