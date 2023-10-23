@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" beforeDir="false" />
@@ -17,12 +18,31 @@
       <change beforePath="$PROJECT_DIR$/paiementMS/paiementMS.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" />
+=======
+    <list default="true" id="f78c121d-1341-4ad8-9723-5110f241a742" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expansion-DecouvertMarche/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Expansion-DecouvertMarche/pom.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+>>>>>>> Stashed changes
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -48,6 +68,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< Updated upstream
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,6 +77,33 @@
     "spring.configuration.checksum": "f4ddd1386008b505d9d07cbcaff983a6"
   }
 }]]></component>
+=======
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/Expansion-DecouvertMarche/src/main/java/com/Bizmatch/Expansion/DecouvertMarche/Entity",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "339b61bf67506e6f25023b3ddf6fd166"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\PrestationServiceMS\src\main\java\com\Bizmatch\PrestationServiceMS\Entity" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\PrestationServiceMS\src\main\java\com\Bizmatch\PrestationServiceMS\Configuration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Bizmatch.Expansion.DecouvertMarche.Service" />
+      <recent name="com.Bizmatch.PrestationServiceMS.Services" />
+      <recent name="com.Bizmatch.PrestationServiceMS.util" />
+      <recent name="com.Bizmatch.PrestationServiceMS.Configuration" />
+      <recent name="com.Bizmatch.PrestationServiceMS.Entity" />
+    </key>
+  </component>
+>>>>>>> Stashed changes
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -63,7 +111,11 @@
       </set>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Spring Boot.BizmatchUserAuthentificationApplication">
+=======
+  <component name="RunManager" selected="Spring Boot.ApplicationExpansion">
+>>>>>>> Stashed changes
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
@@ -71,6 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Expansion-DecouvertMarche" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.Expansion.DecouvertMarche.Application" />
@@ -81,6 +134,11 @@
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="appel-d-offreMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.appel.d.offreMS.Application" />
+=======
+    <configuration name="ApplicationExpansion" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Expansion-DecouvertMarche" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.Expansion.DecouvertMarche.ApplicationExpansion" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,13 +164,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForumApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="Forum" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.Forum.ForumApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PaiementMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="paiementMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.paiementMS.PaiementMsApplication" />
@@ -127,9 +178,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrestationServiceMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="PrestationServiceMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="PrestationServiceMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.PrestationServiceMS.PrestationServiceMsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bizmatch.PrestationServiceMS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,6 +212,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PrestationServiceMsApplication" />
+      </list>
+    </recent_temporary>
+>>>>>>> Stashed changes
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -166,6 +231,22 @@
       <updated>1697373923265</updated>
       <workItem from="1697373926577" duration="804000" />
       <workItem from="1697386802789" duration="388000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1697406834254" duration="1032000" />
+      <workItem from="1697452568776" duration="1696000" />
+      <workItem from="1697459963915" duration="2064000" />
+      <workItem from="1697644613532" duration="595000" />
+      <workItem from="1697398032551" duration="2127000" />
+      <workItem from="1697724959688" duration="2699000" />
+      <workItem from="1697915900996" duration="676000" />
+      <workItem from="1697916639272" duration="12770000" />
+      <workItem from="1697978152296" duration="1911000" />
+      <workItem from="1697990147668" duration="580000" />
+      <workItem from="1697992814188" duration="9354000" />
+      <workItem from="1697398032551" duration="2127000" />
+      <workItem from="1697724959688" duration="536000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
