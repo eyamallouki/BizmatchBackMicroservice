@@ -64,8 +64,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.3.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.7.16" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.16" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.12" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.12" level="project" />
@@ -135,6 +133,9 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-cache:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.3.30" level="project" />
     <orderEntry type="library" name="Maven: com.stoyanr:evictor:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.springframework.boot:spring-boot-devtools:2.7.16" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.16" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.16" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.mysql:mysql-connector-j:8.0.33" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.30" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:2.7.16" level="project" />

@@ -6,6 +6,8 @@ import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import com.esprit.Bizmatch.Register.Register.entity.*;
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
 import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Pattern;
@@ -17,6 +19,7 @@ import java.util.Set;
 @Getter
 @Setter
 @RequiredArgsConstructor
+
 public class User implements Serializable {
 
     @Id
@@ -44,8 +47,5 @@ public class User implements Serializable {
     )
     private Set<Role> role;
 
-    @OneToMany(mappedBy="reclamant",cascade = CascadeType.ALL)
-    @JsonIgnore
-    private List<Reclamation> claimList;
 
 }

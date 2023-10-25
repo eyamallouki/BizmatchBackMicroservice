@@ -51,6 +51,7 @@ public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .antMatchers("/checkEmail").permitAll()
                 .antMatchers("/resetPassword").permitAll()
                 .antMatchers("/activate/{verificationToken}").permitAll()
+                .antMatchers("/Fournisseur/addFour").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .exceptionHandling().authenticationEntryPoint(jwtAuthenticationEntryPoint)
