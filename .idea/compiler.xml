@@ -9,12 +9,26 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ReclamationMS" />
         <module name="suivi-des-objectifsMS" />
+
+        <module name="PrestationServiceMS" />
+        <module name="appel-d-offreMS" />
+        <module name="ApiGatway" />
+        <module name="partenariatMS" />
+        <module name="Bizmatch" />
+        <module name="Forum" />
+        <module name="paiementMS" />
+        <module name="BizmatchUserAuthentification" />
+        <module name="Register" />
+        <module name="Expansion-DecouvertMarche" />
+        <module name="CalanderMS" />
+
         <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
         <module name="Register" />
         <module name="ApiGatway" />
         <module name="partenariatMS" />
         <module name="Bizmatch" />
+
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +36,10 @@
       <module name="appel-d-offreMS" target="1.8" />
       <module name="Bizmatch" target="1.8" />
       <module name="BizmatchUserAuthentification" target="1.8" />
+
+      <module name="CalanderMS" target="1.8" />
+      <module name="Expansion-DecouvertMarche" target="1.8" />
+
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
       <module name="partenariatMS" target="1.8" />
@@ -35,6 +53,10 @@
       <module name="ApiGatway" options="-parameters" />
       <module name="Bizmatch" options="-parameters" />
       <module name="BizmatchUserAuthentification" options="-parameters" />
+
+      <module name="CalanderMS" options="-parameters" />
+      <module name="Expansion-DecouvertMarche" options="-parameters" />
+
       <module name="Forum" options="-parameters" />
       <module name="ReclamationMS" options="-parameters" />
       <module name="Register" options="-parameters" />
