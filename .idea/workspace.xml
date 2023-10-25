@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" />
+    <list default="true" id="0d436186-4118-4ac3-8838-0c2d72621a50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/paiementMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/paiementMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,6 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2WngmgM3rPAdx9LzaCdOTChV6yc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,13 +52,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/ApiGatway/pom.xml",
+    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/suivi-des-objectifsMS/src/main/java/com/esprit/Bizmatch/suivi/des/objectifsMS/entities",
     "spring.configuration.checksum": "49e7d7740df764a03948d04441409bc4"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\suivi-des-objectifsMS\src\main\java\com\esprit\Bizmatch\suivi\des\objectifsMS\entities" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\suivi-des-objectifsMS\src\main\java\com\esprit\Bizmatch\suivi\des\objectifsMS\configuration" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\suivi-des-objectifsMS\src\main\java\com\esprit\Bizmatch\suivi\des\objectifsMS" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.esprit.Bizmatch.suivi.des.objectifsMS.repositories" />
+      <recent name="com.esprit.Bizmatch.suivi.des.objectifsMS.services" />
+      <recent name="com.esprit.Bizmatch.suivi.des.objectifsMS.util" />
+      <recent name="com.esprit.Bizmatch.suivi.des.objectifsMS.configuration" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -52,7 +83,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BizmatchApplication">
+  <component name="RunManager" selected="Spring Boot.SuiviDesObjectifsMsApplication">
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
@@ -91,6 +122,13 @@
     <configuration name="PaiementMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="paiementMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.paiementMS.PaiementMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartenariatMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="partenariatMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.partenariatMS.PartenariatMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
