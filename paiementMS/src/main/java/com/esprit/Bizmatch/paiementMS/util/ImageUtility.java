@@ -1,4 +1,4 @@
-package com.esprit.Bizmatch.paiementMS.utile;
+package com.esprit.Bizmatch.paiementMS.util;
 
 import java.io.ByteArrayOutputStream;
 import java.util.zip.Deflater;

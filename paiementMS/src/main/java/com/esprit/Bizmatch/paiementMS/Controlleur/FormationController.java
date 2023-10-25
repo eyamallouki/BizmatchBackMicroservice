@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @AllArgsConstructor
 @RequestMapping(value = "/api")
-@CrossOrigin(origins = "http://localhost:4200")
+
 
 public class FormationController {
 private final IforamtionService iforamtionService;

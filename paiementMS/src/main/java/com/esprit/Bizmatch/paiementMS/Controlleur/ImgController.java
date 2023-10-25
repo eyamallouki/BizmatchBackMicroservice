@@ -5,7 +5,7 @@ import com.esprit.Bizmatch.paiementMS.Entity.ImageForm;
 import com.esprit.Bizmatch.paiementMS.Repository.FormationRepository;
 import com.esprit.Bizmatch.paiementMS.Repository.ImageRepository;
 import com.esprit.Bizmatch.paiementMS.Service.ImageUploadResponse;
-import com.esprit.Bizmatch.paiementMS.utile.ImageUtility;
+import com.esprit.Bizmatch.paiementMS.util.ImageUtility;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -20,7 +20,7 @@ import java.util.Optional;
 @RestController
 @AllArgsConstructor
 @RequestMapping(value = "/api")
-@CrossOrigin(origins = "http://localhost:4200")
+
 
 public class ImgController {
     private  final FormationRepository formationRepository;
