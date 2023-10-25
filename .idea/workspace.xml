@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -21,16 +22,42 @@
       <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/partenariatMS/target/classes/com/esprit/Bizmatch/partenariatMS/PartenariatMsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/target/classes/com/esprit/Bizmatch/partenariatMS/PartenariatMsApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" />
+
+    <list default="true" id="0d436186-4118-4ac3-8838-0c2d72621a50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Configuration/CorsConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Controlleur/FormationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Controlleur/FormationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Controlleur/ImgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Controlleur/ImgController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Controlleur/StripeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Controlleur/StripeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/utile/ImageUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Configuration/CorsConfiguration$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Configuration/CorsConfiguration$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Configuration/CorsConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Configuration/CorsConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Controlleur/FormationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Controlleur/FormationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Controlleur/ImgController.class" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Controlleur/ImgController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Controlleur/StripeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/target/classes/com/esprit/Bizmatch/paiementMS/Controlleur/StripeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaRepository" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="PrestationServiceMS" />
+        <entry key="$PROJECT_DIR$" value="Appeld'Offre" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,6 +109,26 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.esprit.Bizmatch.partenariatMS.services.Implementation" />
       <recent name="com.esprit.Bizmatch.partenariatMS.repositories" />
+
+    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/paiementMS/src/main/java/com/esprit/Bizmatch/paiementMS/Entity",
+    "spring.configuration.checksum": "96ae03bfbfafed4947cb87cf15822ad9"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\paiementMS\src\main\java\com\esprit\Bizmatch\paiementMS\Entity" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\paiementMS\src\main\java\com\esprit\Bizmatch\paiementMS" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\paiementMS\src\main\java\com\esprit\Bizmatch\paiementMS\Configuration" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\paiementMS\src\main\java\com\esprit\Bizmatch\paiementMS\Service" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\paiementMS\src\main\java\com\esprit\Bizmatch\paiementMS\Repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.esprit.Bizmatch.paiementMS.util" />
+      <recent name="com.esprit.Bizmatch.paiementMS.Repository" />
+      <recent name="com.esprit.Bizmatch.paiementMS.Service" />
+      <recent name="com.esprit.Bizmatch.paiementMS.Entity" />
+      <recent name="com.esprit.Bizmatch.paiementMS.utile" />
+
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,6 +138,7 @@
       </set>
     </option>
   </component>
+
   <component name="RunManager" selected="Spring Boot.PartenariatMsApplication">
     <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bizmatch" />
@@ -100,16 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+  <component name="RunManager" selected="Spring Boot.PaiementMsApplication">
+
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="Expansion-DecouvertMarche" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.Expansion.DecouvertMarche.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,13 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalanderMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="CalanderMS" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.CalanderMS.CalanderMsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ForumApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Forum" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.Forum.ForumApplication" />
@@ -159,13 +196,6 @@
     <configuration name="PartenariatMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="partenariatMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.partenariatMS.PartenariatMsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrestationServiceMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="PrestationServiceMS" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Bizmatch.PrestationServiceMS.PrestationServiceMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,22 +221,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in Bizmatch" />
       </list>
     </recent_temporary>
+
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="" />
+      <changelist id="0d436186-4118-4ac3-8838-0c2d72621a50" name="Changes" comment="" />
       <created>1697373923265</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697373923265</updated>
       <workItem from="1697373926577" duration="804000" />
-      <workItem from="1697386802789" duration="388000" />
+      <workItem from="1698260095751" duration="402000" />
     </task>
     <servers />
   </component>
