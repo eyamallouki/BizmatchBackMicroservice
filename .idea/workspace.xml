@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ApiGatway/ApiGatway.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bizmatch/Bizmatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalanderMS/CalanderMS.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Expansion-DecouvertMarche/Expansion-DecouvertMarche.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Forum/Forum.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PrestationServiceMS/PrestationServiceMS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserMangment/Register.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMangment/Register.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UserMangment/Register.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/paiementMS/paiementMS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/java/com/esprit/Bizmatch/partenariatMS/PartenariatMsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/java/com/esprit/Bizmatch/partenariatMS/PartenariatMsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/target/classes/com/esprit/Bizmatch/partenariatMS/PartenariatMsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/partenariatMS/target/classes/com/esprit/Bizmatch/partenariatMS/PartenariatMsApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +35,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,20 +49,41 @@
     </option>
   </component>
   <component name="ProjectId" id="2WngmgM3rPAdx9LzaCdOTChV6yc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/UserMangment/pom.xml&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;f4ddd1386008b505d9d07cbcaff983a6&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/partenariatMS/pom.xml",
+    "spring.configuration.checksum": "f4ddd1386008b505d9d07cbcaff983a6"
   }
-}</component>
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\partenariatMS\src\main\java\com\esprit\Bizmatch\partenariatMS" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\partenariatMS\src\main\java\com\esprit\Bizmatch\partenariatMS\persistence\entity" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\partenariatMS\src\main\java\com\esprit\Bizmatch\partenariatMS\Configuration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.esprit.Bizmatch.partenariatMS.services.Implementation" />
+      <recent name="com.esprit.Bizmatch.partenariatMS.repositories" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -63,19 +91,7 @@
       </set>
     </option>
   </component>
-
-  <component name="RunManager" selected="Spring Boot.BizmatchApplication">
-    <configuration name="All in Bizmatch (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Bizmatch" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-
-  <component name="RunManager" selected="JUnit.All in Bizmatch">
-
+  <component name="RunManager" selected="Spring Boot.PartenariatMsApplication">
     <configuration name="All in Bizmatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bizmatch" />
       <option name="PACKAGE_NAME" value="" />
@@ -177,10 +193,6 @@
     </configuration>
     <recent_temporary>
       <list>
-
-        <item itemvalue="JUnit.All in Bizmatch (1)" />
-
-        
         <item itemvalue="JUnit.All in Bizmatch" />
       </list>
     </recent_temporary>
