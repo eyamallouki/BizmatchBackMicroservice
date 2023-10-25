@@ -15,7 +15,9 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
+
           <factory-entry name="entityManagerFactory" />
+
           <factory-entry name="suivi-des-objectifsMS" />
         </datasource-mapping>
         <naming-strategy-map />
@@ -65,8 +67,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.3.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.7.16" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.16" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.7.16" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.12" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.12" level="project" />
@@ -170,7 +170,12 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:5.7.11" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.7.11" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:5.7.11" level="project" />
+
     <orderEntry type="library" name="Maven: io.jsonwebtoken:jjwt-api:0.11.5" level="project" />
     <orderEntry type="library" name="Maven: jakarta.validation:jakarta.validation-api:2.0.2" level="project" />
+
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.16" level="project" />
+
   </component>
 </module>

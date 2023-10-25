@@ -94,13 +94,18 @@ public class UserController {
         return userService.countEntreprise();
     }
 
+    @GetMapping("/countFournisseur")
+    public long countFournisseur() {
+        return userService.countFournisseur();
+    }
+
     @GetMapping("/countadmin")
    // @PreAuthorize("hasRole('Admin')")
     public long countadmin() {
         return userService.countadmin();
     }
 
-    @GetMapping("/countusers")
+    @GetMapping("/userss")
    // @PreAuthorize("hasRole('Admin')")
     public long countusers() {
         return userService.countusers();
@@ -112,8 +117,8 @@ public class UserController {
         userService.sms(userName);
     }
 
-    @PutMapping({"/{roleName}/{userName}"})
-    // @PreAuthorize("hasRole('Admin')")
+    @PutMapping({"/addroles/{roleName}/{userName}"})
+    //@PreAuthorize("hasRole('Admin')")
     public void addRoleToUser(@PathVariable String roleName, @PathVariable String userName) {
         userService.addRoleToUser(roleName, userName);
     }

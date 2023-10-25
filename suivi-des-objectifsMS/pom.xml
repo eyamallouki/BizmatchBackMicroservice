@@ -56,6 +56,7 @@
 			<scope>test</scope>
 		</dependency>
         <dependency>
+
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt-api</artifactId>
             <version>0.11.5</version>
@@ -64,6 +65,11 @@
         <dependency>
             <groupId>jakarta.validation</groupId>
             <artifactId>jakarta.validation-api</artifactId>
+
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+            <version>3.0.0</version>
+
         </dependency>
     </dependencies>
 	<dependencyManagement>
