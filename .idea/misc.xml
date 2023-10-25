@@ -9,28 +9,22 @@
         <option value="$PROJECT_DIR$/Register/pom.xml" />
         <option value="$PROJECT_DIR$/UserMangment/pom.xml" />
         <option value="$PROJECT_DIR$/CRM/pom.xml" />
-
         <option value="$PROJECT_DIR$/paiementMS/pom.xml" />
         <option value="$PROJECT_DIR$/ReclamationMS/pom.xml" />
         <option value="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" />
         <option value="$PROJECT_DIR$/Forum/pom.xml" />
         <option value="$PROJECT_DIR$/appel-d-offreMS/pom.xml" />
         <option value="$PROJECT_DIR$/partenariatMS/pom.xml" />
-
-        <option value="$PROJECT_DIR$/ReclamationMS/pom.xml" />
-        <option value="$PROJECT_DIR$/appel-d-offreMS/pom.xml" />
-        <option value="$PROJECT_DIR$/Forum/pom.xml" />
-        <option value="$PROJECT_DIR$/paiementMS/pom.xml" />
-        <option value="$PROJECT_DIR$/CalanderMS/pom.xml" />
-        <option value="$PROJECT_DIR$/PrestationServiceMS/pom.xml" />
-        <option value="$PROJECT_DIR$/Expansion-DecouvertMarche/pom.xml" />
-        <option value="$PROJECT_DIR$/partenariatMS/pom.xml" />
-        <option value="$PROJECT_DIR$/suivi-des-objectifsMS/pom.xml" />
-
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Forum/pom.xml" />
+        <option value="$PROJECT_DIR$/appel-d-offreMS/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="19" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
   <component name="ProjectType">
     <option name="id" value="jpab" />
   </component>
