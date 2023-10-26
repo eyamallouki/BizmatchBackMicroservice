@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd6175e-a7d0-48e7-93ff-ec11c2198fcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BizmatchUserAuthentification/BizmatchUserAuthentification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forum/Forum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Forum/Forum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forum/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Forum/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forum/src/main/java/com/esprit/Bizmatch/Forum/util/ImageUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/Forum/src/main/java/com/esprit/Bizmatch/Forum/util/ImageUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ReclamationMS/ReclamationMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/appel-d-offreMS/appel-d-offreMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paiementMS/paiementMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/paiementMS/paiementMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partenariatMS/partenariatMS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/suivi-des-objectifsMS/suivi-des-objectifsMS.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +33,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,6 +47,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2WngmgM3rPAdx9LzaCdOTChV6yc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,10 +60,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/ApiGatway/pom.xml",
+    "last_opened_file_path": "C:/Users/eyama/OneDrive/Bureau/GithubV2/BizmatchBackMicroservice/Forum/src/main/java/com/esprit/Bizmatch/Forum/Controlleur",
     "spring.configuration.checksum": "49e7d7740df764a03948d04441409bc4"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\Forum\src\main\java\com\esprit\Bizmatch\Forum\Controlleur" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\Forum\src\main\java\com\esprit\Bizmatch\Forum\Services" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\Forum\src\main\java\com\esprit\Bizmatch\Forum\Repo" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\Forum\src\main\java\com\esprit\Bizmatch\Forum\Entity" />
+      <recent name="C:\Users\eyama\OneDrive\Bureau\GithubV2\BizmatchBackMicroservice\Forum\src\main\java\com\esprit\Bizmatch\Forum" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.esprit.Bizmatch.Forum.util" />
+      <recent name="com.esprit.Bizmatch.Forum.Entity" />
+      <recent name="com.esprit.Bizmatch.Forum.Services" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -53,6 +86,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.BizmatchApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Register" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Register" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ApiGatway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.ApiGatway.ApiGatwayApplication" />
@@ -91,6 +137,13 @@
     <configuration name="PaiementMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="paiementMS" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.paiementMS.PaiementMsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartenariatMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="partenariatMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.esprit.Bizmatch.partenariatMS.PartenariatMsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

@@ -3,19 +3,19 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-
-    </annotationProcessing>
-
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ReclamationMS" />
         <module name="suivi-des-objectifsMS" />
+        <module name="ReclamationMS" />
         <module name="paiementMS" />
         <module name="BizmatchUserAuthentification" />
         <module name="Register" />
         <module name="appel-d-offreMS" />
+        <module name="ApiGatway" />
+        <module name="partenariatMS" />
+        <module name="Bizmatch" />
         <module name="Forum" />
       </profile>
     </annotationProcessing>
@@ -26,6 +26,7 @@
       <module name="BizmatchUserAuthentification" target="1.8" />
       <module name="Forum" target="1.8" />
       <module name="paiementMS" target="1.8" />
+      <module name="partenariatMS" target="1.8" />
       <module name="ReclamationMS" target="1.8" />
       <module name="Register" target="1.8" />
       <module name="suivi-des-objectifsMS" target="1.8" />
@@ -41,8 +42,8 @@
       <module name="Register" options="-parameters" />
       <module name="appel-d-offreMS" options="-parameters" />
       <module name="paiementMS" options="-parameters" />
+      <module name="partenariatMS" options="-parameters" />
       <module name="suivi-des-objectifsMS" options="-parameters" />
     </option>
-
   </component>
 </project>
