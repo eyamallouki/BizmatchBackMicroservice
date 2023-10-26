@@ -18,6 +18,9 @@
 
           <factory-entry name="entityManagerFactory" />
 
+
+          <factory-entry name="entityManagerFactory" />
+
           <factory-entry name="suivi-des-objectifsMS" />
         </datasource-mapping>
         <naming-strategy-map />
