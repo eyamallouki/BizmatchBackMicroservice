@@ -41,8 +41,6 @@ public class ICommentServiceImp extends IGenericServiceImp<Comment,Integer> impl
 
         return commentRepository.save(c);
     }
-
-
     public Comment addComment2( Integer idpostBlog,Comment c) {
         try {
             if (BadWords.verfiyWord(c.getContent())) {
