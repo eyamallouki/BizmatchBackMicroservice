@@ -1,0 +1,79 @@
+version: "3.8"
+services:
+  eureka-server:
+    build:
+      context: ./eureka-server/
+      dockerfile: Dockerfile
+    restart: always
+    container_name: eureka-container
+    image: eureka-image
+    ports:
+      - "8761:8761"
+    networks:
+      - bored-network
+  forumDB:
+    container_name: testroleDB-container
+    restart: always
+    image: mysql
+    networks:
+      - bored-network
+    environment:
+      - MYSQL_ROOT_PASSWORD=123456
+      - MYSQL_DATABASE=testrole
+    volumes:
+      - forumVolume:/var/lib/mysql
+    ports:
+      - "3306:3306"
+  forum-service:
+    build:
+      context: ./forum-service
+      dockerfile: Dockerfile
+    container_name: forum-container
+    image: forum-image
+    restart: always
+    ports:
+      - 9094:9094
+    networks:
+      - bored-network
+    depends_on:
+      - testroleDB
+      - eureka-server
+    environment:
+      - eureka.client.service-url.defaultZone=http://eureka-server:8761/eureka
+      - eureka.instance.preferIpAddress=true
+      - eureka.instance.leaseRenewalIntervalInSeconds=10
+      - eureka.instance.leaseExpirationDurationInSeconds=30
+      - spring.datasource.url=jdbc:mysql://forumDB:3306/testrole?createDatabaseIfNotExists=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+      - spring.datasource.username=root
+      - spring.datasource.password=123456
+      - spring.jpa.show-sql=true
+      - spring.jpa.hibernate.ddl-auto=update
+      - spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+      - spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+  api-gateway:
+    build:
+      context: ./api-gateway
+      dockerfile: Dockerfile
+    container_name: api-gateway-container
+    image: api-gateway-image
+    restart: always
+    networks:
+      - bored-network
+    depends_on:
+      - eureka-server
+      - forum-service
+    ports:
+      - 8081:8081
+    environment:
+      - eureka.client.service-url.defaultZone=http://eureka-server:8761/eureka
+      - eureka.instance.preferIpAddress=true
+      - eureka.instance.leaseRenewalIntervalInSeconds=10
+      - eureka.instance.leaseExpirationDurationInSeconds=30
+      - spring.cloud.gateway.routes[0].id=forum-service
+      - spring.cloud.gateway.routes[0].uri=http://forum-service:9000
+      - spring.cloud.gateway.routes[0].predicates[0]=Path=/forum/**
+networks:
+  bored-network:
+    name: bored-network
+volumes:
+  forumVolume:
